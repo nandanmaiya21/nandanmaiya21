@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Computer Science and Develpoment
 - 🌱 I’m currently learning ...Web Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...musicnandan12@gmail.com
+- 📫 How to reach me ...nandanmaiya21@gmail.com
 
 <!---
 nandanmaiya21/nandanmaiya21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
